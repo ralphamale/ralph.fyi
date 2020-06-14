@@ -1,0 +1,4 @@
+[build]
+base = "ralph_react/"
+publish = "ralph_react/build/"
+command = "npm run build"

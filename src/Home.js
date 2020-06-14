@@ -7,6 +7,8 @@ class Home extends Component {
     return (
       <div>
 
+        <p>{"https://ezekielekunola.com/"}</p>      
+
         <p><marquee scrollamount="25">{"( ͡° ͜ʖ ͡°) Hi, i aM RaLpH. ʕ•ᴥ•ʔ WeLCoMe tO My SiTe ~(˘▾˘~)"}</marquee></p>
 
         <img id ="home_me" src={HeadImg} />
