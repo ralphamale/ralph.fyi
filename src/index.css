@@ -9,6 +9,10 @@
     color: #fff;
   }
 
+  #home_me {
+  	float: right;
+  }
+
   div.photo {
   	margin: auto;
   	text-align: center;

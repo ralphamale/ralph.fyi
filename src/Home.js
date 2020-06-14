@@ -7,16 +7,17 @@ class Home extends Component {
     return (
       <div>
 
-        <p>{"https://ezekielekunola.com/"}</p>      
-
         <p><marquee scrollamount="25">{"( ͡° ͜ʖ ͡°) Hi, i aM RaLpH. ʕ•ᴥ•ʔ WeLCoMe tO My SiTe ~(˘▾˘~)"}</marquee></p>
 
         <img id ="home_me" src={HeadImg} />
+
+        <p>Sorry for the comic sans and swapcased blinking marquee. It{"\'"}s just an old signature move of mine from my teenage development days.</p>
+
+        <hr/>
+        
         <p>“Please give me some good advice in your next letter. I promise not to follow it. ”<br/>&mdash;Edna St. Vincent Millay</p>
 
         <hr/>
-
-        <p>Sorry for the comic sans and swapcased blinking marquee. It{"\'"}s just an old signature move of mine from when I started making websites at age 10.</p>
 
         <p>I am a dog lover, software engineer, and oxford-comma user based in Brooklyn, NY.</p>
 
@@ -24,7 +25,7 @@ class Home extends Component {
 
         <p>After graduation, I pursued standup and improv in LA, performing while training at <a href={"https://www.groundlings.com/"}>Groundlings</a>, <a href={"https://ucbcomedy.com/"}>Upright Citizens Brigrade</a>, and <a href={"https://www.ioimprov.com/"}>iO</a>, while working as a {"premium"} tutor with the goal of getting high school students perfect scores on the SATs.</p>
 
-        <p>Although I unfortunately do not have an OnlyFans or active TikTok, I have some experience with social media and community management: creating invite-only communities in high school, being the first student hire to manage {"Stanford\'s"} social media, running <a href={"http://www.facebook.com/Meme"}>facebook.com/Meme</a> and founding a 500,000 member sub-reddit community.</p>
+        <p>I have some experience with social media and community management: creating invite-only communities in high school, being the first student hire to manage {"Stanford\'s"} social media, running <a href={"http://www.facebook.com/Meme"}>facebook.com/Meme</a> and founding a 500,000 member sub-reddit community.</p>
         
 <p>I have many disparate interests, including <a href={"https://www.amazon.com/Truth-Comedy-Improvisation-Charna-Halpern/dp/1566080037"}>improv</a>isational thinking, street photography, <a href={"https://fellrnr.com/"}>ultra-endurance</a> sports, social and political theory, and humanistic psychology.</p>
 
