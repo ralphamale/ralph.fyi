@@ -11,10 +11,10 @@ class Home extends Component {
 
         <img id ="home_me" src={HeadImg} />
 
-        <p>Sorry for the comic sans and swapcased blinking marquee. It{"\'"}s just an old signature move of mine from my teenage development days.</p>
+        <p>Apologies for the above Comic Sans and swapcased blinking marquee. It{"'"}s a hallmark move from my teenage development days.</p>
 
         <hr/>
-        
+
         <p>“Please give me some good advice in your next letter. I promise not to follow it. ”<br/>&mdash;Edna St. Vincent Millay</p>
 
         <hr/>
